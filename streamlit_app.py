@@ -1,5 +1,6 @@
 import pandas as pd
 import streamlit as st
+import openpyxl 
 
 st.title("Motor Selection App")
 
